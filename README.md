@@ -9,3 +9,8 @@
 
 <!-- <div align=center><img src="https://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxEJqOcwA12xbGoofYjHA7%2Fo%2BnNAxjwZ67FYbs02mCJxPvrl1miMCR4%2FHZPI9LRTdFtlwxErz21PSZ8Fi1u%2BJUZabd6%2Bkc0KqvygbLT3TCGJrh4v8jEhIG1PM2bgYl87XSeKYet65yPLBNSdeXVnW8nlYR6jqDDET0sc9Fx%2BlB7bGPUfkGlfwKCsW0h%2F6DFbDIA%3D%3D&ct=ab7H7L7M2C"/></div>
 <br> -->
+
+# Thank you for the visit.
+![](http://profile-counter.glitch.me/Semporia/count.svg)
+
+Please give a star if you like.
