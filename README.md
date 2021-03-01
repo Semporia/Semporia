@@ -12,9 +12,11 @@
 </p>
 
 <details>
-  #<summary><b>:telescope: 2021 goal</b></summary>
+  <summary><b>:telescope: 2021 goal</b></summary>
   I want to make a little game this year. that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
+
+***
 
 [![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
