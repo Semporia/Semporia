@@ -19,7 +19,7 @@
 
 ***
 
-[![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true)](https://github.com/Semporia)
 
 # Thank you for the visit.
 ![](http://profile-counter.glitch.me/Semporia/count.svg)
