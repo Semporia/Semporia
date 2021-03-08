@@ -19,7 +19,16 @@
 
 ***
 
-[![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true)](https://github.com/Semporia)
+<div align="center"> 
+
+![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true)
+
+<a href="https://github.com/Semporia/TikTok-Unlock">
+  <img align="center" src="https://github-readme-stats-phi-cyan.vercel.app/api/pin/?username=Semporia&repo=TikTok-Unlock" />
+</a>
+
+</div>
+
 
 # Thank you for the visit.
 ![](http://profile-counter.glitch.me/Semporia/count.svg)
