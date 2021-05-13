@@ -21,8 +21,11 @@
 
 <div align="center"> 
 
-![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Semporia&theme=onedark)](https://github.com/Semporia)
 
+<!-- ![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true) -->
+
+[![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/Semporia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&theme=radical)](https://github.com/Semporia/github-readme-stats)
 
