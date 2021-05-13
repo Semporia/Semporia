@@ -23,9 +23,12 @@
 
 ![@Semporia's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true)
 
-<a href="https://github.com/Semporia/TikTok-Unlock">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&theme=radical)](https://github.com/Semporia/github-readme-stats)
+
+<!-- <a href="https://github.com/Semporia/TikTok-Unlock">
   <img align="center" src="https://github-readme-stats-phi-cyan.vercel.app/api/pin/?username=Semporia&repo=TikTok-Unlock" />
-</a>
+</a> -->
 
 </div>
 
