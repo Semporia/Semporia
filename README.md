@@ -31,6 +31,15 @@
 
 
 # Thank you for the visit.
+
+<div align="center"> 
+
 ![](http://profile-counter.glitch.me/Semporia/count.svg)
 
+</div>
+
+<div align="right"> 
+
 Please give a star if you like.
+
+</div>
