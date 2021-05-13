@@ -21,7 +21,7 @@
 
 <div align="center"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Semporia&theme=onedark)](https://github.com/Semporia)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Semporia&theme=onedark)](https://github.com/Semporia/github-profile-trophy)
 
 [![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/Semporia)
 
