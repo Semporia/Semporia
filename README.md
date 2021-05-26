@@ -83,11 +83,11 @@
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/linux-original.svg" alt="linux"
         width="40" height="40" />
     </a>
+    <br/>
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/mysql-original-wordmark.svg" alt="mysql"
         width="40" height="40" />
     </a>
-    <br/>
     <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/nodejs-original-wordmark.svg"
         alt="nodejs" width="40" height="40" />
@@ -108,6 +108,7 @@
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/swift-original.svg" alt="swift"
         width="40" height="40" />
     </a>
+    <br/>
     <a href="https://vuejs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/vuejs-original-wordmark.svg" alt="vuejs"
         width="40" height="40" />
