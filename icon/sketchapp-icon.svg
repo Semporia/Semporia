@@ -10,20 +10,20 @@
 	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FEEEB7;}
 </style>
 <g transform="matrix(2.242199 0 0 2.242199 -.682992 -2.821278)">
-	<path class="st0" d="M12.8,5.9l16.1-1.7l16.1,1.7l12.5,16.6L28.8,55.4L0.3,22.5L12.8,5.9z"/>
+	<path class="st0" d="M18.8,14.9l10-1.1l10,1.1l7.8,10.4L28.8,45.8L11,25.2L18.8,14.9z"/>
 	<g>
-		<path class="st1" d="M11.9,22.7l17,32.7L0.3,22.7H11.9z"/>
-		<path class="st1" d="M45.8,22.7l-17,32.7l28.5-32.7H45.8z"/>
+		<path class="st1" d="M18.2,25.4l10.6,20.4L11,25.4H18.2z"/>
+		<path class="st1" d="M39.4,25.4L28.8,45.8l17.8-20.4H39.4z"/>
 	</g>
-	<path class="st2" d="M11.6,22.7h33.9L28.6,55.4L11.6,22.7z"/>
+	<path class="st2" d="M18.1,25.4h21.1L28.7,45.8L18.1,25.4z"/>
 	<g>
-		<path class="st3" d="M28.3,4.2L12.5,5.9l-0.9,16.7L28.3,4.2z"/>
-		<path class="st3" d="M28.8,4.2l15.8,1.7l0.9,16.7L28.8,4.2z"/>
+		<path class="st3" d="M28.5,13.8l-9.9,1.1l-0.6,10.4L28.5,13.8z"/>
+		<path class="st3" d="M28.8,13.8l9.9,1.1l0.6,10.4L28.8,13.8z"/>
 	</g>
 	<g>
-		<path class="st2" d="M57.4,22.7L44.9,6l0.9,16.7H57.4z"/>
-		<path class="st2" d="M0.3,22.7L12.8,6l-0.9,16.7H0.3z"/>
+		<path class="st2" d="M46.6,25.4L38.8,15l0.6,10.4H46.6z"/>
+		<path class="st2" d="M11,25.4L18.8,15l-0.6,10.4H11z"/>
 	</g>
-	<path class="st4" d="M28.6,4.2L11.6,22.7h33.9L28.6,4.2z"/>
+	<path class="st4" d="M28.7,13.8L18.1,25.4h21.1L28.7,13.8z"/>
 </g>
 </svg>
