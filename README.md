@@ -30,10 +30,10 @@
 </div>
 
 <div align="center">
-  <h3 align="left">
-    Languages and Tools:
+  <h3>
+    Languages and Tools
   </h3>
-  <p align="center" style="padding: 0 15px;margin: 0 15%;border-radius: 5px;">
+  <p>
     <a href="https://www.photoshop.com/en" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/Adobe-photoshop.svg" alt="photoshop"
         width="40" height="40" />
@@ -62,6 +62,7 @@
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
     </a>
+    <br/>
     <a href="https://sass-lang.com" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/sass-original.svg" alt="sass" width="40"
         height="40" />
@@ -90,6 +91,7 @@
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/nodejs-original-wordmark.svg"
         alt="nodejs" width="40" height="40" />
     </a>
+    <br/>
     <a href="https://www.php.net" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/php-original.svg" alt="php" width="40"
         height="40" />
