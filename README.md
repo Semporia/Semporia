@@ -29,11 +29,11 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="padding: 15px;margin: 15%;border-radius: 5px;">
   <h3 align="left">
     Languages and Tools:
   </h3>
-  <p align="left">
+  <p align="center">
     <a href="https://www.photoshop.com/en" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/Adobe-photoshop.svg" alt="photoshop"
         width="40" height="40" />
