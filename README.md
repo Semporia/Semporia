@@ -25,9 +25,8 @@
 
 [![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true&count_private=true&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Semporia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Semporia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Semporia)
 
-[![Semporia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Semporia)](https://github.com/Semporia)
 
 
 </div>
