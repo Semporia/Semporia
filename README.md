@@ -29,7 +29,7 @@
 
 </div>
 
-<div align="center" style="padding: 15px;margin: 15%;border-radius: 5px;" width="80%">
+<div align="center">
   <h3 align="left">
     Languages and Tools:
   </h3>
