@@ -58,11 +58,11 @@
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/final-cut-pro.svg" alt="sketch"
         width="40" height="40" />
     </a>
+    <br/>
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
     </a>
-    <br/>
     <a href="https://sass-lang.com" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/sass-original.svg" alt="sass" width="40"
         height="40" />
@@ -87,11 +87,11 @@
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/mysql-original-wordmark.svg" alt="mysql"
         width="40" height="40" />
     </a>
+    <br/>
     <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/nodejs-original-wordmark.svg"
         alt="nodejs" width="40" height="40" />
     </a>
-    <br/>
     <a href="https://www.php.net" target="_blank">
       <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/icon/php-original.svg" alt="php" width="40"
         height="40" />
