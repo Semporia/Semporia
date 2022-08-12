@@ -12,7 +12,7 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>
+  <summary><b>:telescope: 2022 goal</b></summary>
   <br>
   I want to make a little game this year. that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
@@ -21,13 +21,14 @@
 
 <div align="center"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Semporia&row=2&column=5&margin-w=15&margin-h=15&no-bg=true&theme=onedark)](https://github.com/Semporia)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Semporia&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&theme=onedark)](https://github.com/Semporia)
 
 [![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Semporia)
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Semporia&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Semporia)
+
 
 </div>
 
