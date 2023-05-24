@@ -37,7 +37,7 @@
 </a>
 <br>
 <a href="https://github.com/Semporia">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semporia&theme=vue&point=99CC33&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semporia&theme=vue&point=99CC33&bg_color=00000000&hide_border=false" />
 </a>
 <br>
 <a href="https://github.com/Semporia">
