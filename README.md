@@ -12,7 +12,7 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2022 goal</b></summary>
+  <summary><b>:telescope: 2023 goal</b></summary>
   <br>
   I want to make a little game this year. that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
