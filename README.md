@@ -29,11 +29,11 @@
 </a>
 <br>
 <a style="display: block;" href="https://github.com/Semporia">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semporia&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&no-bg=true&bg_color=27282200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semporia&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&theme=transparent" />
 </a>
 <br>
 <a style="display: block;" href="https://github.com/Semporia">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&no-bg=true&bg_color=27282200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&no-bg=true&bg_color=27282200" />
 </a>
 </div>
 
