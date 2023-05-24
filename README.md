@@ -21,7 +21,7 @@
 
 <div align="center">
 <a style="display: block;" href="https://github.com/Semporia">
-  <img src="https://github-profile-trophy.vercel.app/?username=Semporia&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Semporia&row=3&column=4&margin-w=15&margin-h=15&no-bg=true&theme=onedark" />
 </a>
 <br>
 <a style="display: block;" href="https://github.com/Semporia">
