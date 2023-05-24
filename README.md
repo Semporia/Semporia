@@ -20,21 +20,26 @@
 ***
 
 <div align="center">
-<a style="display: block;" href="https://github.com/Semporia">
+<a href="https://github.com/Semporia">
   <img src="https://github-profile-trophy.vercel.app/?username=Semporia&row=3&column=4&margin-w=15&margin-h=15&no-bg=true&theme=onedark" />
 </a>
 <br>
-<a style="display: block;" href="https://github.com/Semporia">
+<a href="https://github.com/Semporia">
   <img src="https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true&theme=radical&count_private=true&include_all_commits=true&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200" />
 </a>
 <br>
-<a style="display: block;" href="https://github.com/Semporia">
+<a href="https://github.com/Semporia">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semporia&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&theme=transparent" />
 </a>
 <br>
-<a style="display: block;" href="https://github.com/Semporia">
+<a href="https://github.com/Semporia">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&no-bg=true&bg_color=27282200" />
 </a>
+<br>
+<a href="https://github.com/Semporia">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semporia&theme=vue&point=99CC33&bg_color=00000000" />
+</a>
+
 </div>
 
 <div align="center">
