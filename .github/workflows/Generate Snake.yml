@@ -1,6 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: 生成贪吃蛇
+name: Generate Snake
 
 on:
   schedule:
