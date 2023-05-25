@@ -21,7 +21,7 @@
 
 <div align="center">
 <a href="https://github.com/Semporia">
-  <img src="https://github-profile-trophy.vercel.app/?username=Semporia&column=5&row=3&margin-w=15&margin-h=15&no-bg=true&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Semporia&column=&row=3&margin-w=15&margin-h=15&no-bg=true&theme=onedark" />
 </a>
 <br>
 <a href="https://github.com/Semporia">
@@ -43,7 +43,7 @@
 <a href="https://github.com/Semporia">
   <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/assets/github-contribution-grid-snake.svg" />
 </a>
-
+<br>
 </div>
 
 <div align="center">
