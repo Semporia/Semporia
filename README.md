@@ -43,10 +43,7 @@
 <a href="https://github.com/Semporia">
   <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/assets/github-contribution-grid-snake.svg" />
 </a>
-<br>
-<a href="https://github.com/Semporia">
-  <img src="https://metrics.lecoq.io/Semporia?template=classic&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=true&config.timezone=Asia%2FShanghai" />
-</a>
+
 </div>
 
 <div align="center">
