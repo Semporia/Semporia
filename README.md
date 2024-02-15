@@ -35,7 +35,7 @@
 </a>
 <br>
 <a href="https://github.com/Semporia">
-  <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/assets/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Semporia/Semporia/output/github-contribution-grid-snake.svg" />
 </a>
 <br>
 </div>
