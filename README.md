@@ -14,33 +14,6 @@
 ***
 
 <div align="center">
-<a href="https://github.com/Semporia">
-  <img src="https://github-profile-trophy.vercel.app/?username=Semporia&column=&row=3&margin-w=15&margin-h=15&no-bg=true&theme=onedark" />
-</a>
-<br>
-<a href="https://github.com/Semporia">
-  <img src="https://github-readme-stats.vercel.app/api?username=Semporia&show_icons=true&theme=radical&count_private=true&include_all_commits=true&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200" />
-</a>
-<br>
-<a href="https://github.com/Semporia">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semporia&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&theme=transparent" />
-</a>
-<br>
-<a href="https://github.com/Semporia">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semporia&no-bg=true&bg_color=27282200" />
-</a>
-<br>
-<a href="https://github.com/Semporia">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semporia&theme=vue&point=99CC33&bg_color=00000000&hide_border=true&hide_title=true" />
-</a>
-<br>
-<a href="https://github.com/Semporia">
-  <img src="https://raw.githubusercontent.com/Semporia/Semporia/output/github-contribution-grid-snake.svg" />
-</a>
-<br>
-</div>
-
-<div align="center">
   <h3>
     Languages and Tools
   </h3>
