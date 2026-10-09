@@ -12,7 +12,8 @@
 </p>
 
 ***
-
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Semporia" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semporia" /> </div>
 <div align="center">
   <h3>
     Languages and Tools
