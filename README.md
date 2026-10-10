@@ -26,9 +26,8 @@
 </a>
 <br>
 <a href="https://github.com/Semporia">
-  <img src="https://raw.githubusercontent.com/Semporia/Semporia/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Semporia/Semporia/refs/heads/master/profile-3d-contrib/profile-gitblock.svg" />
 </a>
-![](./profile-3d-contrib/profile-gitblock.svg)
 <br>
 </div>
 
