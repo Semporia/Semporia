@@ -12,6 +12,7 @@
 </p>
 
 ***
+<div align="center"> ![](./profile-3d-contrib/profile-green-animate.svg)</div>
 <div align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semporia)</div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Semporia" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semporia" /> </div>
