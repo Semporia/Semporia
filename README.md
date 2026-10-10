@@ -28,7 +28,7 @@
 <a href="https://github.com/Semporia">
   <img src="https://raw.githubusercontent.com/Semporia/Semporia/output/github-contribution-grid-snake.svg" />
 </a>
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 <br>
 </div>
 
